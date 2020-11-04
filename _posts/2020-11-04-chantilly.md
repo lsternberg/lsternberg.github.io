@@ -2,6 +2,8 @@
 layout: post
 title: Como fazer Chantilly
 subtitle: O segredo de como fazer o bendito creme em sua casa.
+cover-img: /assets/img/cream.jpg
+thumbnail-img: /assets/img/cream.jpg
 tags: [receitas,dicas,chantilly,gastronomia]
 comments: true
 ---
