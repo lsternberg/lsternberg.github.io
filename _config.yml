@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Leo Sternberg's Website
+title: Leo's WebSitio
 
 # Your name to show in the footer
 author: Lemony Master
@@ -14,11 +14,10 @@ author: Lemony Master
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre Mim: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
   Erro: "/404.html"
 
 # --- Logo --- #
@@ -44,6 +43,8 @@ social-network-links:
   facebook: leonardo.sternberg
   github: lsternberg
   twitter: Leo_Sternberg
+  linkedin: leonardosantiagosternberg
+  instagram: leonardosternberg
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -73,11 +74,11 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  instagram: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -95,8 +96,8 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#37047A"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -178,7 +179,7 @@ footer-link-col: "#404040"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%-d %B, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
@@ -186,7 +187,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
