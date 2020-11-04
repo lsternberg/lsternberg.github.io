@@ -43,7 +43,7 @@ Juntar todos os ingredientes e bater por uns 5 minutos em velocidade lenta.
 É bom ficar de olho. O ponto ideal é com "picos firmes". O cuidado aqui é não bater de mais, pois pode virar manteiga.
 
 
-![Ponto do Chantilly](/assets/img/ponto.jpg){: .mx-auto.d-block :}
+![Ponto do Chantilly](/assets/img/ponto.jpg) {: .mx-auto.d-block :}
 
 
 Here's a code chunk:
